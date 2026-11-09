@@ -1,0 +1,40 @@
+{
+  "abertura": [
+    "Bem-vindo, viajante! Os símbolos despertaram para contar uma história.",
+    "Ah, uma nova visita! Que as cartas inspirem sua próxima aventura.",
+    "A bola de cristal brilha... três cartas encontraram seu caminho."
+  ],
+  "introducoes": [
+    "Os símbolos se cruzam diante de você.",
+    "Escute com atenção esta história nascida das cartas.",
+    "A mesa revela um curioso encontro de forças."
+  ],
+  "origem": [
+    "Na origem da sua história, {carta} representa {tema}.",
+    "O primeiro sinal vem de {carta}: {tema}.",
+    "Tudo começa com {carta}, símbolo de {tema}."
+  ],
+  "agora": [
+    "Neste momento, {carta} convida a observar {tema}.",
+    "O presente ganha forma com {carta}: {tema}.",
+    "Agora, {carta} ilumina {tema}."
+  ],
+  "possibilidade": [
+    "Como possível caminho, {carta} sugere explorar {tema}.",
+    "Adiante, {carta} abre uma reflexão sobre {tema}.",
+    "O terceiro símbolo, {carta}, aponta para {tema}."
+  ],
+  "pontes": [
+    "Quando estes três símbolos se encontram, eles não dão certezas: convidam à curiosidade e à imaginação.",
+    "Nenhum destino é fixo. As cartas oferecem um novo ângulo para criar sua própria história.",
+    "Esta combinação é um mapa imaginário, e você decide por onde caminhar."
+  ],
+  "fechos": [
+    "Pequeno desafio do oráculo: escolha uma ação simples para começar hoje.",
+    "A pergunta que deixo é: qual primeiro passo faz sentido para você?",
+    "E assim termina a leitura... mas a próxima aventura depende de suas escolhas."
+  ],
+  "especial": "Há também uma combinação secreta: {nome}. {orientacao}",
+  "com_pergunta": "Você trouxe esta questão: “{pergunta}”. Pense nela enquanto conecta os símbolos.",
+  "sem_pergunta": "Se quiser, faça uma pergunta antes da próxima leitura."
+}

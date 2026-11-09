@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sol-estrela",
+    "nome": "Luz no Horizonte",
+    "cartas": [
+      17,
+      19
+    ],
+    "assunto": "esperança, clareza e novos caminhos",
+    "orientacao": "Aborde esperança realista e pequenos passos concretos."
+  },
+  {
+    "id": "lua-torre",
+    "nome": "Noite da Mudança",
+    "cartas": [
+      16,
+      18
+    ],
+    "assunto": "incerteza e reconstrução",
+    "orientacao": "Fale sobre o inesperado sem provocar medo ou fatalismo."
+  },
+  {
+    "id": "mago-roda",
+    "nome": "Oportunidade em Movimento",
+    "cartas": [
+      1,
+      10
+    ],
+    "assunto": "iniciativa diante de mudanças",
+    "orientacao": "Valorize escolhas e ação prática."
+  },
+  {
+    "id": "enamorados-imperador",
+    "nome": "Coração e Estrutura",
+    "cartas": [
+      4,
+      6
+    ],
+    "assunto": "escolhas afetivas e compromissos",
+    "orientacao": "Destaque diálogo e autonomia."
+  },
+  {
+    "id": "estrela-mundo",
+    "nome": "Ciclo de Esperança",
+    "cartas": [
+      17,
+      21
+    ],
+    "assunto": "inspiração e conclusão",
+    "orientacao": "Relacione crescimento pessoal e realização."
+  }
+]

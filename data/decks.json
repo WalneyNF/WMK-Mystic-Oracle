@@ -1,0 +1,241 @@
+[
+  {
+    "id": "arcano-mistico",
+    "nome": "Arcanos do Oráculo",
+    "descricao": "21 cartas místicas ilustradas, numeradas de 1 a 21",
+    "ativo": true,
+    "cartas": [
+      {
+        "id": 1,
+        "numero": 1,
+        "nome": "O Mago",
+        "imagem": "assets/cards/01.webp",
+        "temas": [
+          "iniciativa",
+          "criatividade"
+        ],
+        "significado": "Iniciativa e criatividade; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 2,
+        "numero": 2,
+        "nome": "A Sacerdotisa",
+        "imagem": "assets/cards/02.webp",
+        "temas": [
+          "intuição",
+          "mistérios"
+        ],
+        "significado": "Intuição e mistérios; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 3,
+        "numero": 3,
+        "nome": "A Imperatriz",
+        "imagem": "assets/cards/03.webp",
+        "temas": [
+          "abundância",
+          "cuidado"
+        ],
+        "significado": "Abundância e cuidado; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 4,
+        "numero": 4,
+        "nome": "O Imperador",
+        "imagem": "assets/cards/04.webp",
+        "temas": [
+          "estrutura",
+          "liderança"
+        ],
+        "significado": "Estrutura e liderança; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 5,
+        "numero": 5,
+        "nome": "O Hierofante",
+        "imagem": "assets/cards/05.webp",
+        "temas": [
+          "conhecimento",
+          "tradições"
+        ],
+        "significado": "Conhecimento e tradições; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 6,
+        "numero": 6,
+        "nome": "Os Enamorados",
+        "imagem": "assets/cards/06.webp",
+        "temas": [
+          "relacionamentos",
+          "escolhas"
+        ],
+        "significado": "Relacionamentos e escolhas; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 7,
+        "numero": 7,
+        "nome": "O Carro",
+        "imagem": "assets/cards/07.webp",
+        "temas": [
+          "movimento",
+          "determinação"
+        ],
+        "significado": "Movimento e determinação; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 8,
+        "numero": 8,
+        "nome": "A Justiça",
+        "imagem": "assets/cards/08.webp",
+        "temas": [
+          "equilíbrio",
+          "consequências"
+        ],
+        "significado": "Equilíbrio e consequências; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 9,
+        "numero": 9,
+        "nome": "O Eremita",
+        "imagem": "assets/cards/09.webp",
+        "temas": [
+          "reflexão",
+          "sabedoria"
+        ],
+        "significado": "Reflexão e sabedoria; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 10,
+        "numero": 10,
+        "nome": "A Roda",
+        "imagem": "assets/cards/10.webp",
+        "temas": [
+          "mudanças",
+          "oportunidades"
+        ],
+        "significado": "Mudanças e oportunidades; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 11,
+        "numero": 11,
+        "nome": "A Força",
+        "imagem": "assets/cards/11.webp",
+        "temas": [
+          "coragem",
+          "autocontrole"
+        ],
+        "significado": "Coragem e autocontrole; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 12,
+        "numero": 12,
+        "nome": "O Enforcado",
+        "imagem": "assets/cards/12.webp",
+        "temas": [
+          "pausa",
+          "perspectiva"
+        ],
+        "significado": "Pausa e perspectiva; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 13,
+        "numero": 13,
+        "nome": "A Transformação",
+        "imagem": "assets/cards/13.webp",
+        "temas": [
+          "encerramento",
+          "renovação"
+        ],
+        "significado": "Encerramento e renovação; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 14,
+        "numero": 14,
+        "nome": "A Temperança",
+        "imagem": "assets/cards/14.webp",
+        "temas": [
+          "harmonia",
+          "paciência"
+        ],
+        "significado": "Harmonia e paciência; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 15,
+        "numero": 15,
+        "nome": "A Sombra",
+        "imagem": "assets/cards/15.webp",
+        "temas": [
+          "apegos",
+          "limites"
+        ],
+        "significado": "Apegos e limites; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 16,
+        "numero": 16,
+        "nome": "A Torre",
+        "imagem": "assets/cards/16.webp",
+        "temas": [
+          "ruptura",
+          "reconstrução"
+        ],
+        "significado": "Ruptura e reconstrução; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 17,
+        "numero": 17,
+        "nome": "A Estrela",
+        "imagem": "assets/cards/17.webp",
+        "temas": [
+          "esperança",
+          "inspiração"
+        ],
+        "significado": "Esperança e inspiração; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 18,
+        "numero": 18,
+        "nome": "A Lua",
+        "imagem": "assets/cards/18.webp",
+        "temas": [
+          "incerteza",
+          "imaginação"
+        ],
+        "significado": "Incerteza e imaginação; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 19,
+        "numero": 19,
+        "nome": "O Sol",
+        "imagem": "assets/cards/19.webp",
+        "temas": [
+          "clareza",
+          "alegria"
+        ],
+        "significado": "Clareza e alegria; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 20,
+        "numero": 20,
+        "nome": "O Julgamento",
+        "imagem": "assets/cards/20.webp",
+        "temas": [
+          "despertar",
+          "reavaliação"
+        ],
+        "significado": "Despertar e reavaliação; convide o visitante a refletir sobre esse símbolo."
+      },
+      {
+        "id": 21,
+        "numero": 21,
+        "nome": "O Mundo",
+        "imagem": "assets/cards/21.webp",
+        "temas": [
+          "realização",
+          "conclusão"
+        ],
+        "significado": "Realização e conclusão; convide o visitante a refletir sobre esse símbolo."
+      }
+    ]
+  }
+]

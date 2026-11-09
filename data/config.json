@@ -1,0 +1,11 @@
+{
+  "titulo": "WMK Mystic Oracle",
+  "versao": "1.2.0",
+  "modo": "sem_ia",
+  "nome_agente": "Zahir, o Oráculo",
+  "voz_ativa": true,
+  "velocidade_voz": 0.88,
+  "tempo_revelacao_ms": 600,
+  "variantes_de_mensagem": true,
+  "aviso": "Entretenimento simbólico. Não prevê o futuro."
+}
